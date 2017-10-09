@@ -1,0 +1,22 @@
+body {
+    background-color: #eee;
+    margin: 0px;
+}
+
+.content-wrapper {
+    margin: 10px auto;
+    width: 80%;
+}
+
+footer {
+    box-sizing: border-box;
+    background-color: #eee;
+    border-top: 1px solid #e0e0e0;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+}
